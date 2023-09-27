@@ -1,0 +1,14 @@
+user deposits money
+allow them to bet in either 1,2,or 3 lines of the slot machine (using just 3 lines, could be more)
+determine if they won any line 
+if they won, we multiply their bet by the value of the line, then add to their balance,
+allow them to cash out or continue playing untill they run out of money
+
+we need to 
+collect user deposits
+add to their balance
+generate the different items in the slot machine 
+allow them to bet on a line or multiple lines
+we spin the slot machine
+we need to see if they won any of the lines 
+add what they won back to their balance
